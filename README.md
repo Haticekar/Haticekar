@@ -7,11 +7,10 @@ verifiable reports.
 
 ## What I work with
 
-**AI & LLM** — LangChain, OpenAI API, agentic patterns (tool use, memory,
-chain-of-thought), Text-to-SQL, prompt engineering
-**Python & Data** — OOP, pandas, NumPy, scikit-learn, ETL pipeline design
-**Backend & DB** — FastAPI, PostgreSQL, SQL Server, SQLite, advanced SQL
-**Also used** — Streamlit, openpyxl, Git, C# / ASP.NET Core (internships)
+- **AI & LLM** — LangChain, OpenAI API, agentic patterns (tool use, memory, chain-of-thought), Text-to-SQL, prompt engineering
+- **Python & Data** — OOP, pandas, NumPy, scikit-learn, ETL pipeline design
+- **Backend & DB** — FastAPI, PostgreSQL, SQL Server, SQLite, advanced SQL
+- **Also used** — Streamlit, openpyxl, Git, C# / ASP.NET Core (internships)
 
 ## Selected work
 
