@@ -14,17 +14,11 @@ verifiable reports.
 
 ## Selected work
 
-**[telco-churn-analysis](https://github.com/Haticekar/telco-churn-analysis)**
-Churn prediction on 7,043 customers. Four models compared with cross-validated
-ROC-AUC; the decision threshold is chosen from business cost, not the default 0.5.
-Output is a ranked retention list, not a label.
+**[LLMAgent](https://github.com/Haticekar/LLMAgent)** — LangChain agent with modular tools: SQL querying, chart generation and insight interpretation over a FastAPI + PostgreSQL backend.
 
-**[LLMAgent](https://github.com/Haticekar/LLMAgent)**
-LangChain agent with modular tools — SQL querying, chart generation and insight
-interpretation over a FastAPI + PostgreSQL backend.
+**[telco-churn-analysis](https://github.com/Haticekar/telco-churn-analysis)** — Churn prediction on 7,043 customers. Four models compared with cross-validated ROC-AUC; the decision threshold is chosen from business cost, not the default 0.5. Output is a ranked retention list, not a label.
 
-**[SQL_Data_Analysis](https://github.com/Haticekar/SQL_Data_Analysis)**
-Advanced SQL practice — joins, aggregation, window functions.
+**[SQL_Data_Analysis](https://github.com/Haticekar/SQL_Data_Analysis)** — Advanced SQL practice: joins, aggregation, window functions.
 
 ## Background
 
